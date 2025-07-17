@@ -1,2 +1,2 @@
-# Spark_SSSP
-Single Source Shortest Path implementation in Java Spark
+# proj-spark
+Spark Project Assignment - Single Source Shortest Path (SSSP) Problem 
